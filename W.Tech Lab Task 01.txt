@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<style>
+	table,th,td { border: 1px solid black; }
+</style>
+<body>
+<!-- .................Heading...................... -->
+<img src="G:\aa.jpg" alt="Abdul Aziz sajib">
+
+<div style="background : skyblue; border: 3px solid black;">
+	<h1 style="color:black;"><u>ABDUL AZIZ SAJIB</u></h1>
+	<p><b>Adress:Merul Badda, Dhaka <br>
+	Phone: 01782521705 <br>
+Email:abdulazizsajib@gmail.com</p>
+</div>
+
+<!-- ................Summary...................... -->
+<div style="background:lightgray;">
+<h3 style="color:blue;"><u>Summary</u> <h3>
+	
+	<p align="justify">Senior Web Developer specializing in front end development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including HTML5, PHP OOP, JavaScript, CSS, MySQL. Strong background in project management and customer relations.</p>
+
+<!-- ............... Skill Highlights...................... -->
+<h3 style="color:blue"><u>Skill Highlights</u></h3>
+
+<ul>
+	<li>Project Management</li>
+	<li>Strong Decision Maker</li>
+	<li>Innovative</li>
+	<li>Creative Design</li>
+</ul>
+
+
+
+
+
+
+
+<!-- .................TABLE...................... -->
+
+	<h3 style="color: blue;"><u>Education Qualification</u></h3>
+	<table>
+		
+		<tr>
+			<th>Degree</th>
+			<th>Year</th>
+			<th>GPA</th>
+		</tr>
+		
+		<tr>
+			<th>SSC</th>
+			<th>2017</th>
+			<th>5.00</th>
+		</tr>
+
+		<tr>
+			<th>HSC</th>
+			<th>2019</th>
+			<th>4.71</th>
+		</tr>
+		<tr>
+			<th>Undergratuate</th>
+			<th>2020</th>
+			<th>3.27</th>
+		</tr>
+
+
+	</table>
+	<h3 style="color:blue;"><u>My Github Link</u> </h3>
+	
+	<a href="https://github.com/AbdulAzizSajib"> <b>Click Here</b></a>
+</div>
+</body>
+</html>
